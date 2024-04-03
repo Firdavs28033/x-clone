@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Building a Twitter Clone with Next.js React.js TypeScript MongoDB and Node.js</h1>
-Firdavs Abdurasulov
-Techer: Sammi.ac
+<p>Firdavs Abdurasulov</p>
+<h1><b>Techer:</b>Sammi.ac </h1> 
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
